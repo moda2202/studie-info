@@ -10,5 +10,5 @@ document.getElementById("math").addEventListener("click", function() {
     window.location.href = "mukvaru.html";
   });
     document.getElementById("OOP_JAVA").addEventListener("click", function() {
-      window.location.href = "OOP.html";
+      window.location.href = "oop.html";
   });
